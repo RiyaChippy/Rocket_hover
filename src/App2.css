@@ -1,0 +1,50 @@
+.App {
+    text-align: center;
+    height: 100%;
+  }
+  .question{
+    background-color: black;
+    padding: 16px;
+    color: aliceblue;
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 16px;
+    box-shadow: black,black;
+    height: auto;
+  }
+  ul{
+    list-style: none;
+  }
+  li{
+    background-color:azure;
+    padding: 16px;
+    border: 3px solid gray;
+    border-radius: 20px;
+    color: black;
+    margin-top: 8px;
+  }
+  .qn{
+    color: rgb(158, 158, 247);
+    font-size: 25px;
+  }
+  .result{
+    background-color: black;
+    padding: 16px;
+    color: aliceblue;
+    width: 40%;
+    margin: 0 auto;
+    border-radius: 16px;
+    box-shadow: black,black;
+    height: auto;
+  }
+  button{
+    background-color: blue;
+    border: none;
+    color: aliceblue;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 16px;
+  }
